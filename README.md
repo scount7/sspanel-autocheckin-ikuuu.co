@@ -6,7 +6,7 @@ e
 
 **原作者仓库https://github.com/isecret/sspanel-autocheckin**
 
-## 使用方法
+## 使用方法sij
 
 ### 方式一：Github Actions（推荐）
 
